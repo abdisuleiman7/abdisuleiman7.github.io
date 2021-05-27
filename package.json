@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "node-omron-hvc-p2": "^0.1.2",
+    "play-sound": "^1.1.3",
+    "ws": "^7.4.5"
+  }
+}
